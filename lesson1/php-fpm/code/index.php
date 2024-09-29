@@ -1,7 +1,15 @@
 <?php
 
-echo "Привет, GeekBrains!<br>".date("Y-m-d H:i:s") ."<br><br>";
+$name = "Админ";
 
-echo "Марина, у тебя все получится";
+var_dump($name); 
 
-phpinfo();
+//
+//$x = 1;
+//$y = 2;
+//
+////логика
+//$x = $x ^ $y; //x = 1 + 2 = 3 //XOR
+//
+//
+//echo "x = $x, y = $y";
