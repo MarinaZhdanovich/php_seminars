@@ -48,4 +48,3 @@ if ($count2 < count($array2)) {
 
 echo "<pre>";
 print_r($result);
-var_dump($result);
